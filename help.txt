@@ -1,0 +1,4 @@
+sed -i 's/\r$//' password_strength_checker.py
+
+
+#after downloading the script then run with the above command, also add #!/usr/bin/python at the top of script if you want to use it in Linux environment
